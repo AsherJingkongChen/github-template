@@ -1,8 +1,8 @@
 ---
-name: "Title of the bug or feature""
-about: "About the bug or feature""
+name: "Title of the bug or feature"
+about: "About the bug or feature"
 title: "Title of the bug or feature"
-labels: "Bug, Feature"
+labels: "bug, enhancement"
 
 ---
 
