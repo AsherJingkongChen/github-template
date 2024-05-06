@@ -1,8 +1,9 @@
 ---
-name: "{{ Title of the bug or feature }}""
-about: "{{ About the bug or feature }}""
-title: "{{ Title of the bug or feature }}"
-labels: Bug, Feature
+name: "Title of the bug or feature""
+about: "About the bug or feature""
+title: "Title of the bug or feature"
+labels: "Bug, Feature"
+
 ---
 
 # {{ Title of the bug or feature }}
