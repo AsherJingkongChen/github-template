@@ -1,11 +1,3 @@
----
-name: "Title of the bug or feature"
-about: "About the bug or feature"
-title: "Title of the bug or feature"
-labels: "bug, enhancement"
-
----
-
 # {{ Title of the bug or feature }}
 
 ## _What_ are the motivations or contexts?
