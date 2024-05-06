@@ -15,17 +15,6 @@
 
 {{ I found there is a bug. }}
 
-## Types of changes
-
-<!--- What types of changes does your code introduce? Put an `X` or `O` in all the boxes that apply: -->
-
-| Type                 | Is matched? |
-| -------------------- | ----------- |
-| Bug fix              | O           |
-| New feature          | X           |
-| Breaking change      | X           |
-| Documentation update | X           |
-
 ## Checklist
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
