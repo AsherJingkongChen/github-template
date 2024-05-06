@@ -1,4 +1,4 @@
-# {{Your title or summary of changes}}
+# {{ Your title or summary of changes }}
 
 <!--- Provide a general summary of your changes in the Title above -->
 
@@ -6,14 +6,14 @@
 
 <!--- Describe your changes in detail -->
 
-{{I fixed a bug in the `main` module.}}
+{{ I fixed a bug in the `main` module. }}
 
 ## Motivation or Context
 
 <!--- Why is this change required? What problem does it solve? -->
 <!--- If it fixes an open issue, please link to the issue here. -->
 
-{{I found there is a bug.}}
+{{ I found there is a bug. }}
 
 ## Types of changes
 
